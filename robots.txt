@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://livecamrooms.github.io/monger-in-asia-galleries/sitemap.xml
